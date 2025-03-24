@@ -1,5 +1,0 @@
-# requirements.txt
-python-telegram-bot==20.3
-apscheduler==3.10.1
-pytz==2023.3
-flask>=2.0.0
